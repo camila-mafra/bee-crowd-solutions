@@ -1,0 +1,9 @@
+# binário gerado pelo gcc
+main
+
+# arquivos de debug do macOS
+main.dSYM/
+
+# arquivo padrão do macOS
+.DS_Store
+
