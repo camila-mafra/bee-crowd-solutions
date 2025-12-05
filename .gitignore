@@ -1,6 +1,9 @@
 # binário gerado pelo gcc
 main
 
+# executáveis numéricos gerados na pasta iniciante (1001, 1002, 1003...)
+iniciante/[0-9]*
+
 # arquivos de debug do macOS
 main.dSYM/
 
