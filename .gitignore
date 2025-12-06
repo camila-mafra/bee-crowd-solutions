@@ -4,6 +4,9 @@ main
 # executáveis numéricos gerados na pasta iniciante (1001, 1002, 1003...)
 iniciante/[0-9]*
 
+# mas NÃO ignore os arquivos .c (código-fonte)
+!iniciante/*.c
+
 # arquivos de debug do macOS
 main.dSYM/
 
